@@ -18,7 +18,7 @@
 </br>
 </br>
 
-kaisetu.c の最後に貼ってある参考画像。ここに貼ってみたら結構見難いので[このリンク](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fw3e.kanazawa-it.ac.jp%2Fmath%2Fcategory%2Fgyouretu%2Fimage%2Fgyouretu1.gif&f=1&nofb=1)踏んでください
+kaisetu.c の最後に貼ってある参考画像。（ここに貼ってみたら結構見難いので[このリンク](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fw3e.kanazawa-it.ac.jp%2Fmath%2Fcategory%2Fgyouretu%2Fimage%2Fgyouretu1.gif&f=1&nofb=1)踏んでください）
 
 ![行列の積　参考画像](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fw3e.kanazawa-it.ac.jp%2Fmath%2Fcategory%2Fgyouretu%2Fimage%2Fgyouretu1.gif&f=1&nofb=1)
 
