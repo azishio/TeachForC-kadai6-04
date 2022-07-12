@@ -138,7 +138,8 @@ int main(void) {
     for (int i = 0; i < M; i++) {
         scanf("%d,%d,%d,%d,%d", &B[i][0], &B[i][1], &B[i][2], &B[i][3], &B[i][4]);
     }
-#else if INPUT == 3
+#endif
+#if INPUT == 3
     for (int i = 0; i < M; i++) {
         for (int j = 0; j < N; j++) {
             scanf("%d", &B[i][j]);
